@@ -1,0 +1,14 @@
+[data-amplify-authenticator]{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+/* This is to change the color of the amplify Sign in button */
+.amplify-button[data-variation='primary'] {
+  background: #304050
+}
+
